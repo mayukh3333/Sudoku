@@ -1,10 +1,10 @@
 # Sudoku
 Sudoku solver
 
-Instructions to run:
+# Instructions to run:
 
 Run GUI.py
 
-Libraries Required:
+# Libraries Required:
 
 pygame
